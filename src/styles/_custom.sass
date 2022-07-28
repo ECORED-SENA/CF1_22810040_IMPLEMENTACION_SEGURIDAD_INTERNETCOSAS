@@ -29,13 +29,16 @@
   100%
     transform: translateY(0px)
 
-
+.font-20-cus 
+  font-size: 20px
 .titulo-principal__numero
   background: #38DBCF
 .bg-accord-cus
   background: #D1ECFF
 .tarjeta--azul
-    background-color: #A4BDF8
+  background-color: #D1DEFB
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: #A4BDF8
 .tarjeta-avatar > img 
     width: 90px;
 .tarjeta-avatar 
@@ -47,6 +50,8 @@
 .bg-accord-cus-2
   background: #D1ECFF
   height: 200px
+.bg-accord-cus-3
+  background: rgba(171, 220, 255, 0.55 )
 .pl-20-cus
   padding-left: 20px;
 .tarjeta-avatar-b__img > img 
@@ -91,8 +96,13 @@
     position: relative;
 .tarjeta-flip.color-primario .tarjeta-flip__contenido
     background-color: #ABDCFF;
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon 
+    background-color: #769BF4;
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon:after 
+    background-color: #769BF4;
+
 .linea-tiempo-b__icon img
-    width: 50%;
+    width: 40%;
 
 .linea-tiempo-b__line:after
     border-left: 7px dotted #1B59ED;
@@ -154,6 +164,10 @@ div[class^="btn-hover-cus"]:hover
 .tarjeta-audio
   &.color-adicional-4
     border-color: $color-adicional-4
+    background-color: #fff
+    -webkit-box-shadow: -1px 7px 9px -2px rgba(0,0,0,0.39);
+    -moz-box-shadow: -1px 7px 9px -2px rgba(0,0,0,0.39);
+    box-shadow: -1px 7px 9px -2px rgba(0,0,0,0.39);
     .tarjeta-audio__texto
       color: $color-adicional-4
     .tarjeta-audio__input
@@ -166,6 +180,83 @@ div[class^="btn-hover-cus"]:hover
         &::-moz-range-thumb
           background-color: $color-adicional-4
         background-image: linear-gradient($color-adicional-4, $color-adicional-4)
+.h-card-cus
+  height: 270px;
+.h-card-cus-sm
+  height: 540px;
+.h-card-cus-sm-2
+    height: 640px;
+
+.font-26-cus
+  font-size: 24px
+.h2-card-cus
+  height: 288px;
+.ml-cus
+  margin-left: 20px;
+.slyder-a__bullets__item--active 
+    background-color: $color-primario;
+    border-color: $color-primario;
+    opacity: 1;
+.font-18-cus
+  font-size: 18px
+.w-img-flip
+  width: 65%;
+  margin: 0 auto;
+.bg-color-sistema-g
+  background: $color-sistema-g
+.border-radius-10
+  border-radius: 10px
+.tarjeta.color-acento-botones 
+  -webkit-box-shadow: -1px 7px 9px -2px rgba(0,0,0,0.39);
+  -moz-box-shadow: -1px 7px 9px -2px rgba(0,0,0,0.39);
+  box-shadow: -1px 7px 9px -2px rgba(0,0,0,0.39);
+.mt-7-cus
+  margin-top: 17rem!important;
+.px-6-cus
+    padding-right: 5rem !important;
+    padding-left: 5rem !important;
+
+@media (max-width: 600px)
+  .tarjeta-flip 
+    height: 730px;
+
+  .px-6-cus
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+  .btn-hover-cus
+      &-1
+          position: relative
+          top: -160px
+          left: 18px
+          font-size: 8px
+      &-2
+          position: relative
+          top: -115px
+          left: 10px
+          font-size: 8px
+      &-3
+          position: relative
+          top: -95px
+          left: 70px
+          font-size: 8px
+      &-4
+          position: relative
+          top: -240px;
+          left: 72%;
+          font-size: 8px
+      &-5
+          position: relative
+          top: -215px;
+          left: 75%;
+          font-size: 8px
+      &-6
+          position: relative;
+          top: -170px;
+          left: 52%;
+          width: 50%;
+          font-size: 8px;
+    
+
 
 
 
