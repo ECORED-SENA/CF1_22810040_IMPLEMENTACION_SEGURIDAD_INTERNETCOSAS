@@ -253,6 +253,30 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Héctor Henry Jurado Soto',
+        cargo: 'Experto Temático',
+        centro:
+          'Centro de teleinformática y producción industrial - Regional Cauca',
+      },
+      {
+        nombre: 'Caterine Bedoya Mejía',
+        cargo: 'Diseñadora Instruccional',
+        centro:
+          'Centro de Gestión Industrial - Regional Distrito Capital',
+      },
+      {
+        nombre: 'Andrés Felipe Velandia Espitia',
+        cargo: 'Asesor Metodológico',
+        centro:
+          'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro:
+          'Centro de Diseño y Metrología - Regional Distrito Capital',
+      },
     ],
     desarrolloProducto: [
       {
