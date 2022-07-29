@@ -1,0 +1,199 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1320" height="506.835" viewBox="0 0 1320 506.835">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Rectangle_652" data-name="Rectangle 652" d="M1299.213,0H20.787C9.307,0,0,8.4,0,18.772V488.063c0,10.367,9.307,18.772,20.787,18.772H1299.213c11.48,0,20.787-8.4,20.787-18.772V18.772C1320,8.4,1310.693,0,1299.213,0Z" transform="translate(144.333 70)" fill="#abdcff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_119007" data-name="Trazado 119007" d="M718.034,1154.588c3.238-19.854,3.019-55.753-15.9-69.482-12.271-8.9-26.166-7.315-39.385-1.845-31.373,12.98-49.457,29.368-84.882,34.157-59.7,8.07-62.845-49.079-18.083-76.837,15.6-9.673,30.9-19.5,46.824-28.592,70.069-40.019,172.612-123.22,126.48-210.469-17.06-32.267-52.411-51.986-90.538-46.422a62.114,62.114,0,0,0-8.849,2.048c-188.68,56.543-190.823-94.49-190.823-94.49v496.9c0-.091,253.45.078,274.2.1Q717.62,1157.131,718.034,1154.588Z" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_119004" data-name="Trazado 119004" d="M1127.366,705.535a530.217,530.217,0,0,0-70.246,29.724c-23.42,11.956-46.086,25.665-66.83,41.867-18.7,14.608-36.268,31.45-49.136,51.53-11.284,17.608-18.539,37.99-17.365,59.116.649,11.692,3.571,23.848,9.47,34.026a49.015,49.015,0,0,0,27.89,22.177c11.9,3.785,24.708,3.9,37.026,2.67,13.371-1.34,26.536-4.368,39.471-7.932,13.354-3.679,26.475-8.127,39.782-11.96a361.789,361.789,0,0,1,51.049-11.126c22.349-3.054,45.073-3.211,67.193.7v-227.2q-4.1.4-8.171,1.005C1167.026,693.148,1146.926,698.88,1127.366,705.535Z" fill="none" stroke="#707070" stroke-width="2"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Trazado_119009" data-name="Trazado 119009" d="M305.146,148.251c-16.855,25.834-16.855,57.664,0,83.5l162.136,248.53c16.855,25.836,48,41.75,81.711,41.75H892.839V70.292H356Z" transform="translate(571.494 -0.292)" fill="#1b59ed"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_83649" data-name="Grupo 83649" transform="translate(-144.333 -70)">
+    <path id="Rectangle_652-2" data-name="Rectangle 652" d="M1299.213,0H20.787C9.307,0,0,8.4,0,18.772V488.063c0,10.367,9.307,18.772,20.787,18.772H1299.213c11.48,0,20.787-8.4,20.787-18.772V18.772C1320,8.4,1310.693,0,1299.213,0Z" transform="translate(144.333 70)" fill="#abdcff"/>
+    <g id="Grupo_83635" data-name="Grupo 83635" transform="translate(1684.021 1224.584) rotate(180)" opacity="0.38" style="mix-blend-mode: multiply;isolation: isolate">
+      <path id="Trazado_119002" data-name="Trazado 119002" d="M873.707,1151.575c9.561-18.162,14.229-39.41,6.257-59.051-4.115-10.139-11.4-20.609-20.463-26.9-7.444-5.17-16.409-7.6-25.124-9.655-15.4-3.623-34.808-5.905-44.152-20.452-10.162-15.821-2.5-37,5.512-51.977,10.013-18.715,23.867-35.042,37.028-51.569,13.779-17.3,25.878-36.177,31.985-57.657,3.332-11.716,4.658-24.129,2.485-36.184a69.256,69.256,0,0,0-16.926-33.787c-14.518-16.157-36.615-22.908-57.673-24.433-21.529-1.557-43.293,1.613-64.15,6.833-30.432,7.614-59.405,22.319-91.286,23.237-13.1.377-43.783,82.314-195.217,344.606H872.063C872.621,1153.586,873.173,1152.587,873.707,1151.575Z" fill="#abdcff"/>
+    </g>
+    <g id="Enmascarar_grupo_84" data-name="Enmascarar grupo 84" clip-path="url(#clip-path)">
+      <path id="Trazado_119006" data-name="Trazado 119006" d="M667.426,1146.519c2.642-16.2,2.464-45.5-12.979-56.7-10.013-7.266-21.353-5.97-32.14-1.506-25.6,10.593-40.361,23.966-69.271,27.875-48.717,6.585-51.286-40.053-14.757-62.705,12.729-7.894,25.218-15.912,38.212-23.334,57.182-32.658,140.865-100.557,103.218-171.759-13.922-26.331-42.772-42.424-73.886-37.884a50.869,50.869,0,0,0-7.222,1.672c-153.977,46.144-155.726-77.111-155.726-77.111v405.5c0-.074,206.834.064,223.77.082Q667.087,1148.595,667.426,1146.519Z" transform="translate(-370.542 -573.749)" fill="#abdcff" opacity="0.18" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <g id="Grupo_78297" data-name="Grupo 78297" transform="translate(11218.248 12523.086)">
+        <path id="Trazado_99257" data-name="Trazado 99257" d="M416.049,103.656a.918.918,0,1,1-.918-.877A.9.9,0,0,1,416.049,103.656Z" transform="translate(-11447.97 -12119.038)" fill="#fff"/>
+        <path id="Trazado_99258" data-name="Trazado 99258" d="M424.495,103.656a.918.918,0,1,1-.917-.877A.9.9,0,0,1,424.495,103.656Z" transform="translate(-11448.161 -12119.038)" fill="#fff"/>
+        <path id="Trazado_99259" data-name="Trazado 99259" d="M432.941,103.656a.918.918,0,1,1-.917-.877A.9.9,0,0,1,432.941,103.656Z" transform="translate(-11448.352 -12119.038)" fill="#fff"/>
+        <path id="Trazado_99260" data-name="Trazado 99260" d="M441.388,103.656a.918.918,0,1,1-.918-.877A.9.9,0,0,1,441.388,103.656Z" transform="translate(-11448.543 -12119.038)" fill="#fff"/>
+        <path id="Trazado_99261" data-name="Trazado 99261" d="M449.834,103.656a.918.918,0,1,1-.917-.877A.9.9,0,0,1,449.834,103.656Z" transform="translate(-11448.733 -12119.038)" fill="#fff"/>
+        <ellipse id="Elipse_3975" data-name="Elipse 3975" cx="0.917" cy="0.877" rx="0.917" ry="0.877" transform="translate(-11033.756 -12009.241)" fill="#fff"/>
+        <path id="Trazado_99268" data-name="Trazado 99268" d="M424.495,111.164a.918.918,0,1,1-.917-.877A.9.9,0,0,1,424.495,111.164Z" transform="translate(-11448.161 -12119.528)" fill="#fff"/>
+        <ellipse id="Elipse_3976" data-name="Elipse 3976" cx="0.917" cy="0.877" rx="0.917" ry="0.877" transform="translate(-11017.245 -12009.241)" fill="#fff"/>
+        <path id="Trazado_99269" data-name="Trazado 99269" d="M441.388,111.164a.918.918,0,1,1-.918-.877A.9.9,0,0,1,441.388,111.164Z" transform="translate(-11448.543 -12119.528)" fill="#fff"/>
+        <path id="Trazado_99270" data-name="Trazado 99270" d="M449.834,111.164a.918.918,0,1,1-.917-.877A.9.9,0,0,1,449.834,111.164Z" transform="translate(-11448.733 -12119.528)" fill="#fff"/>
+        <path id="Trazado_99274" data-name="Trazado 99274" d="M416.049,118.672a.918.918,0,1,1-.918-.878A.9.9,0,0,1,416.049,118.672Z" transform="translate(-11447.97 -12120.019)" fill="#fff"/>
+        <path id="Trazado_99275" data-name="Trazado 99275" d="M424.495,118.672a.918.918,0,1,1-.917-.878A.9.9,0,0,1,424.495,118.672Z" transform="translate(-11448.161 -12120.019)" fill="#fff"/>
+        <path id="Trazado_99276" data-name="Trazado 99276" d="M432.941,118.672a.918.918,0,1,1-.917-.878A.9.9,0,0,1,432.941,118.672Z" transform="translate(-11448.352 -12120.019)" fill="#fff"/>
+        <path id="Trazado_99277" data-name="Trazado 99277" d="M441.388,118.672a.918.918,0,1,1-.918-.878A.9.9,0,0,1,441.388,118.672Z" transform="translate(-11448.543 -12120.019)" fill="#fff"/>
+        <path id="Trazado_99278" data-name="Trazado 99278" d="M449.834,118.672a.918.918,0,1,1-.917-.878A.9.9,0,0,1,449.834,118.672Z" transform="translate(-11448.733 -12120.019)" fill="#fff"/>
+        <ellipse id="Elipse_3980" data-name="Elipse 3980" cx="0.917" cy="0.877" rx="0.917" ry="0.877" transform="translate(-11033.756 -11995.206)" fill="#fff"/>
+        <path id="Trazado_99285" data-name="Trazado 99285" d="M424.495,126.18a.918.918,0,1,1-.917-.878A.9.9,0,0,1,424.495,126.18Z" transform="translate(-11448.161 -12120.509)" fill="#fff"/>
+        <ellipse id="Elipse_3981" data-name="Elipse 3981" cx="0.917" cy="0.877" rx="0.917" ry="0.877" transform="translate(-11017.245 -11995.206)" fill="#fff"/>
+        <path id="Trazado_99286" data-name="Trazado 99286" d="M441.388,126.18a.918.918,0,1,1-.918-.878A.9.9,0,0,1,441.388,126.18Z" transform="translate(-11448.543 -12120.509)" fill="#fff"/>
+        <path id="Trazado_99287" data-name="Trazado 99287" d="M449.834,126.18a.918.918,0,1,1-.917-.878A.9.9,0,0,1,449.834,126.18Z" transform="translate(-11448.733 -12120.509)" fill="#fff"/>
+        <ellipse id="Elipse_3985" data-name="Elipse 3985" cx="0.917" cy="0.877" rx="0.917" ry="0.877" transform="translate(-11033.756 -11988.189)" fill="#fff"/>
+        <path id="Trazado_99291" data-name="Trazado 99291" d="M424.495,133.688a.918.918,0,1,1-.917-.878A.9.9,0,0,1,424.495,133.688Z" transform="translate(-11448.161 -12120.999)" fill="#fff"/>
+        <ellipse id="Elipse_3986" data-name="Elipse 3986" cx="0.917" cy="0.877" rx="0.917" ry="0.877" transform="translate(-11017.245 -11988.189)" fill="#fff"/>
+        <path id="Trazado_99292" data-name="Trazado 99292" d="M441.388,133.688a.918.918,0,1,1-.918-.878A.9.9,0,0,1,441.388,133.688Z" transform="translate(-11448.543 -12120.999)" fill="#fff"/>
+        <path id="Trazado_99293" data-name="Trazado 99293" d="M449.834,133.688a.918.918,0,1,1-.917-.878A.9.9,0,0,1,449.834,133.688Z" transform="translate(-11448.733 -12120.999)" fill="#fff"/>
+      </g>
+      <path id="Trazado_119008" data-name="Trazado 119008" d="M482.782,1150.555c-7.275-9.929-9.313-23.617-9.22-35.244.157-19.764,9.3-36.146,23.164-50.633,12.685-13.254,27.5-24.822,38.919-39.121a104.283,104.283,0,0,0,20.6-42.446c3.248-14.969,2.389-31.386-6.657-44.545-10.884-15.833-30.327-21.319-48.413-27.007-17.793-5.6-32.182-13.527-42.079-28.916a92.062,92.062,0,0,1-11.414-70.469h-4.809v338.395C442.875,1150.55,459.47,1150.548,482.782,1150.555Z" transform="translate(-311.976 -573.178)" fill="#1b59ed" opacity="0.31"/>
+      <g id="Grupo_83644" data-name="Grupo 83644" transform="translate(-314.542 -553.238)" style="mix-blend-mode: soft-light;isolation: isolate">
+        <g id="Grupo_83643" data-name="Grupo 83643" transform="translate(0 4)" clip-path="url(#clip-path-2)">
+          <g id="Grupo_83642" data-name="Grupo 83642">
+            <line id="Línea_231" data-name="Línea 231" y1="354.732" x2="354.732" transform="translate(218.893 512.787)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_232" data-name="Línea 232" y1="354.732" x2="354.732" transform="translate(224.831 519.905)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_233" data-name="Línea 233" y1="354.732" x2="354.732" transform="translate(230.769 527.024)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_234" data-name="Línea 234" y1="354.732" x2="354.732" transform="translate(236.707 534.142)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_235" data-name="Línea 235" y1="354.732" x2="354.732" transform="translate(242.646 541.261)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_236" data-name="Línea 236" y1="354.732" x2="354.732" transform="translate(248.584 548.379)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_237" data-name="Línea 237" y1="354.732" x2="354.732" transform="translate(254.522 555.498)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_238" data-name="Línea 238" y1="354.732" x2="354.732" transform="translate(260.46 562.616)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_239" data-name="Línea 239" y1="354.732" x2="354.732" transform="translate(266.399 569.735)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_240" data-name="Línea 240" y1="354.732" x2="354.732" transform="translate(272.337 576.853)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_241" data-name="Línea 241" y1="354.732" x2="354.732" transform="translate(278.275 583.972)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_242" data-name="Línea 242" y1="354.732" x2="354.732" transform="translate(284.213 591.09)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_243" data-name="Línea 243" y1="354.732" x2="354.732" transform="translate(290.151 598.209)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_244" data-name="Línea 244" y1="354.732" x2="354.732" transform="translate(296.09 605.327)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_245" data-name="Línea 245" y1="354.732" x2="354.732" transform="translate(302.028 612.446)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_246" data-name="Línea 246" y1="354.732" x2="354.732" transform="translate(307.966 619.564)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_247" data-name="Línea 247" y1="354.732" x2="354.732" transform="translate(313.904 626.683)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_248" data-name="Línea 248" y1="354.732" x2="354.732" transform="translate(319.843 633.801)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_249" data-name="Línea 249" y1="354.732" x2="354.732" transform="translate(325.781 640.92)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_250" data-name="Línea 250" y1="354.732" x2="354.732" transform="translate(331.719 648.038)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_251" data-name="Línea 251" y1="354.732" x2="354.732" transform="translate(337.657 655.157)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_252" data-name="Línea 252" y1="354.732" x2="354.732" transform="translate(343.595 662.275)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_253" data-name="Línea 253" y1="354.732" x2="354.732" transform="translate(349.534 669.394)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_254" data-name="Línea 254" y1="354.732" x2="354.732" transform="translate(355.472 676.512)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_255" data-name="Línea 255" y1="354.732" x2="354.732" transform="translate(361.41 683.631)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_256" data-name="Línea 256" y1="354.732" x2="354.732" transform="translate(367.348 690.749)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_257" data-name="Línea 257" y1="354.732" x2="354.732" transform="translate(373.287 697.868)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_258" data-name="Línea 258" y1="354.732" x2="354.732" transform="translate(379.225 704.986)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_259" data-name="Línea 259" y1="354.732" x2="354.732" transform="translate(385.163 712.105)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_260" data-name="Línea 260" y1="354.732" x2="354.732" transform="translate(391.101 719.223)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_261" data-name="Línea 261" y1="354.732" x2="354.732" transform="translate(397.04 726.342)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_262" data-name="Línea 262" y1="354.732" x2="354.732" transform="translate(402.978 733.46)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_263" data-name="Línea 263" y1="354.732" x2="354.732" transform="translate(408.916 740.579)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_264" data-name="Línea 264" y1="354.732" x2="354.732" transform="translate(414.854 747.697)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_265" data-name="Línea 265" y1="354.732" x2="354.732" transform="translate(420.792 754.816)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_266" data-name="Línea 266" y1="354.732" x2="354.732" transform="translate(426.731 761.934)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_267" data-name="Línea 267" y1="354.732" x2="354.732" transform="translate(432.669 769.053)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_268" data-name="Línea 268" y1="354.732" x2="354.732" transform="translate(438.607 776.171)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_269" data-name="Línea 269" y1="354.732" x2="354.732" transform="translate(444.545 783.29)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_270" data-name="Línea 270" y1="354.732" x2="354.732" transform="translate(450.484 790.408)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_271" data-name="Línea 271" y1="354.732" x2="354.732" transform="translate(456.422 797.527)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_272" data-name="Línea 272" y1="354.732" x2="354.732" transform="translate(462.36 804.645)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_273" data-name="Línea 273" y1="354.732" x2="354.732" transform="translate(468.298 811.764)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_274" data-name="Línea 274" y1="354.732" x2="354.732" transform="translate(474.236 818.882)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_275" data-name="Línea 275" y1="354.732" x2="354.732" transform="translate(480.175 826.001)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_276" data-name="Línea 276" y1="354.732" x2="354.732" transform="translate(486.113 833.119)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_277" data-name="Línea 277" y1="354.732" x2="354.732" transform="translate(492.051 840.238)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_278" data-name="Línea 278" y1="354.732" x2="354.732" transform="translate(497.989 847.356)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_279" data-name="Línea 279" y1="354.732" x2="354.732" transform="translate(503.928 854.475)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_280" data-name="Línea 280" y1="354.732" x2="354.732" transform="translate(509.866 861.593)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_281" data-name="Línea 281" y1="354.732" x2="354.732" transform="translate(515.804 868.712)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_282" data-name="Línea 282" y1="354.732" x2="354.732" transform="translate(521.742 875.83)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_283" data-name="Línea 283" y1="354.732" x2="354.732" transform="translate(527.68 882.949)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_284" data-name="Línea 284" y1="354.732" x2="354.732" transform="translate(533.619 890.067)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_285" data-name="Línea 285" y1="354.732" x2="354.732" transform="translate(539.557 897.186)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_286" data-name="Línea 286" y1="354.732" x2="354.732" transform="translate(545.495 904.304)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_287" data-name="Línea 287" y1="354.732" x2="354.732" transform="translate(551.433 911.423)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_288" data-name="Línea 288" y1="354.732" x2="354.732" transform="translate(557.372 918.541)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_289" data-name="Línea 289" y1="354.732" x2="354.732" transform="translate(563.31 925.66)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_290" data-name="Línea 290" y1="354.732" x2="354.732" transform="translate(569.248 932.778)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_291" data-name="Línea 291" y1="354.732" x2="354.732" transform="translate(575.186 939.897)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+            <line id="Línea_292" data-name="Línea 292" y1="354.732" x2="354.732" transform="translate(581.125 947.015)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_83639" data-name="Grupo 83639" transform="translate(-39.648 -375.749)" opacity="0.57" style="mix-blend-mode: soft-light;isolation: isolate">
+        <g id="Grupo_83638" data-name="Grupo 83638" clip-path="url(#clip-path-3)">
+          <g id="Grupo_83637" data-name="Grupo 83637">
+            <line id="Línea_169" data-name="Línea 169" y1="354.732" x2="354.732" transform="translate(741.946 375.356)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_170" data-name="Línea 170" y1="354.732" x2="354.732" transform="translate(747.884 382.475)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_171" data-name="Línea 171" y1="354.732" x2="354.732" transform="translate(753.823 389.593)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_172" data-name="Línea 172" y1="354.732" x2="354.732" transform="translate(759.761 396.712)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_173" data-name="Línea 173" y1="354.732" x2="354.732" transform="translate(765.699 403.83)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_174" data-name="Línea 174" y1="354.732" x2="354.732" transform="translate(771.637 410.949)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_175" data-name="Línea 175" y1="354.732" x2="354.732" transform="translate(777.576 418.067)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_176" data-name="Línea 176" y1="354.732" x2="354.732" transform="translate(783.514 425.186)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_177" data-name="Línea 177" y1="354.732" x2="354.732" transform="translate(789.452 432.304)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_178" data-name="Línea 178" y1="354.732" x2="354.732" transform="translate(795.39 439.423)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_179" data-name="Línea 179" y1="354.732" x2="354.732" transform="translate(801.328 446.541)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_180" data-name="Línea 180" y1="354.732" x2="354.732" transform="translate(807.267 453.66)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_181" data-name="Línea 181" y1="354.732" x2="354.732" transform="translate(813.205 460.778)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_182" data-name="Línea 182" y1="354.732" x2="354.732" transform="translate(819.143 467.897)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_183" data-name="Línea 183" y1="354.732" x2="354.732" transform="translate(825.081 475.015)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_184" data-name="Línea 184" y1="354.732" x2="354.732" transform="translate(831.02 482.134)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_185" data-name="Línea 185" y1="354.732" x2="354.732" transform="translate(836.958 489.252)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_186" data-name="Línea 186" y1="354.732" x2="354.732" transform="translate(842.896 496.371)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_187" data-name="Línea 187" y1="354.732" x2="354.732" transform="translate(848.834 503.489)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_188" data-name="Línea 188" y1="354.732" x2="354.732" transform="translate(854.773 510.608)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_189" data-name="Línea 189" y1="354.732" x2="354.732" transform="translate(860.711 517.726)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_190" data-name="Línea 190" y1="354.732" x2="354.732" transform="translate(866.649 524.845)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_191" data-name="Línea 191" y1="354.732" x2="354.732" transform="translate(872.587 531.963)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_192" data-name="Línea 192" y1="354.732" x2="354.732" transform="translate(878.525 539.082)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_193" data-name="Línea 193" y1="354.732" x2="354.732" transform="translate(884.464 546.2)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_194" data-name="Línea 194" y1="354.732" x2="354.732" transform="translate(890.402 553.319)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_195" data-name="Línea 195" y1="354.732" x2="354.732" transform="translate(896.34 560.437)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_196" data-name="Línea 196" y1="354.732" x2="354.732" transform="translate(902.278 567.556)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_197" data-name="Línea 197" y1="354.732" x2="354.732" transform="translate(908.217 574.674)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_198" data-name="Línea 198" y1="354.732" x2="354.732" transform="translate(914.155 581.793)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_199" data-name="Línea 199" y1="354.732" x2="354.732" transform="translate(920.093 588.911)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_200" data-name="Línea 200" y1="354.732" x2="354.732" transform="translate(926.031 596.03)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_201" data-name="Línea 201" y1="354.732" x2="354.732" transform="translate(931.97 603.148)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_202" data-name="Línea 202" y1="354.732" x2="354.732" transform="translate(937.908 610.267)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_203" data-name="Línea 203" y1="354.732" x2="354.732" transform="translate(943.846 617.385)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_204" data-name="Línea 204" y1="354.732" x2="354.732" transform="translate(949.784 624.504)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_205" data-name="Línea 205" y1="354.732" x2="354.732" transform="translate(955.722 631.622)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_206" data-name="Línea 206" y1="354.732" x2="354.732" transform="translate(961.661 638.741)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_207" data-name="Línea 207" y1="354.732" x2="354.732" transform="translate(967.599 645.859)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_208" data-name="Línea 208" y1="354.732" x2="354.732" transform="translate(973.537 652.978)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_209" data-name="Línea 209" y1="354.732" x2="354.732" transform="translate(979.475 660.096)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_210" data-name="Línea 210" y1="354.732" x2="354.732" transform="translate(985.414 667.215)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_211" data-name="Línea 211" y1="354.732" x2="354.732" transform="translate(991.352 674.333)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_212" data-name="Línea 212" y1="354.732" x2="354.732" transform="translate(997.29 681.452)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_213" data-name="Línea 213" y1="354.732" x2="354.732" transform="translate(1003.228 688.57)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_214" data-name="Línea 214" y1="354.732" x2="354.732" transform="translate(1009.167 695.688)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_215" data-name="Línea 215" y1="354.732" x2="354.732" transform="translate(1015.105 702.807)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_216" data-name="Línea 216" y1="354.732" x2="354.732" transform="translate(1021.043 709.925)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_217" data-name="Línea 217" y1="354.732" x2="354.732" transform="translate(1026.981 717.044)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_218" data-name="Línea 218" y1="354.732" x2="354.732" transform="translate(1032.919 724.162)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_219" data-name="Línea 219" y1="354.732" x2="354.732" transform="translate(1038.858 731.281)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_220" data-name="Línea 220" y1="354.732" x2="354.732" transform="translate(1044.796 738.399)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_221" data-name="Línea 221" y1="354.732" x2="354.732" transform="translate(1050.734 745.518)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_222" data-name="Línea 222" y1="354.732" x2="354.732" transform="translate(1056.672 752.636)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_223" data-name="Línea 223" y1="354.732" x2="354.732" transform="translate(1062.61 759.755)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_224" data-name="Línea 224" y1="354.732" x2="354.732" transform="translate(1068.549 766.873)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_225" data-name="Línea 225" y1="354.732" x2="354.732" transform="translate(1074.487 773.992)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_226" data-name="Línea 226" y1="354.732" x2="354.732" transform="translate(1080.425 781.11)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_227" data-name="Línea 227" y1="354.732" x2="354.732" transform="translate(1086.363 788.229)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_228" data-name="Línea 228" y1="354.732" x2="354.732" transform="translate(1092.302 795.347)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_229" data-name="Línea 229" y1="354.732" x2="354.732" transform="translate(1098.24 802.466)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+            <line id="Línea_230" data-name="Línea 230" y1="354.732" x2="354.732" transform="translate(1104.178 809.584)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_114713" data-name="Trazado 114713" d="M305.146,148.251c-16.855,25.834-16.855,57.664,0,83.5l162.136,248.53c16.855,25.836,48,41.75,81.711,41.75H892.839V70.292H356Z" transform="translate(571.494 -0.292)" fill="#1b59ed"/>
+    <g id="Enmascarar_grupo_85" data-name="Enmascarar grupo 85" clip-path="url(#clip-path-4)">
+      <g id="Grupo_83645" data-name="Grupo 83645">
+        <path id="Trazado_119003" data-name="Trazado 119003" d="M915.579,649.9c-3.295,20.21-3.073,56.753,16.189,70.728,12.49,9.062,26.634,7.445,40.09,1.878,31.935-13.213,50.343-29.894,86.4-34.77,60.766-8.214,63.971,49.959,18.406,78.215-15.877,9.846-31.454,19.847-47.663,29.1C957.68,835.793,853.3,920.485,900.258,1009.3c18.121,34.273,56.515,54.639,97.238,46.368,35.89-7.289,136.581-77.272,150.735-6.951,3.541,17.593-4.563,36.409-12.406,52.041-8.8,17.538-19.955,33.958-31.708,49.9h91.553v-505.8c0,.092-257.992-.08-279.116-.1Q916,647.314,915.579,649.9Z" transform="translate(266.663 -573.749)" fill="#497af1"/>
+        <g id="Grupo_83640" data-name="Grupo 83640" transform="translate(268.663 -574.851)">
+          <path id="Trazado_119005" data-name="Trazado 119005" d="M1145.892,644.869c9.075,12.384,11.616,29.458,11.5,43.961-.2,24.652-11.6,45.086-28.893,63.156-15.822,16.532-34.3,30.962-48.544,48.8-12.441,15.578-21.561,33.878-25.7,52.945-4.051,18.67-2.98,39.148,8.3,55.562,13.576,19.75,37.828,26.592,60.387,33.686,22.194,6.979,40.141,16.874,52.487,36.069a114.833,114.833,0,0,1,14.237,87.9h6V644.851C1195.67,644.875,1174.97,644.877,1145.892,644.869Z" fill="#1552e5"/>
+        </g>
+      </g>
+    </g>
+    <path id="Trazado_114736" data-name="Trazado 114736" d="M6.931,0a6.931,6.931,0,0,1,6.931,6.931v57.7A6.931,6.931,0,1,1,0,64.628V6.931A6.932,6.932,0,0,1,6.931,0Z" transform="translate(1105.576 483.643) rotate(46.216)" fill="#ffcd38"/>
+  </g>
+</svg>
