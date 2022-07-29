@@ -125,6 +125,10 @@
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-in")
       h2(data-aos="fade-in") 1.1  Malware en IoT
 
+    figure.mb-5(data-aos="fade-in")
+      .video            
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/x56FT_OVARQ" title="Ataques de seguridad en la red" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     .gray--left.mb-4(data-aos="fade-in")
       .row.justify-content-center.align-items-center.py-4   
         .col-lg-4.col-10
