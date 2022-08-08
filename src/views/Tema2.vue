@@ -12,7 +12,7 @@
         figure
           img(src="@/assets/curso/temas/tema2/img1.png" data-aos="zoom-in-up")
       .col-md-9
-        p(data-aos="fade-in").mt-3.mt-lg-0 Si bien es cierto que el avance tecnológico en el internet de las cosas es tendencia de crecimiento a nivel mundial, aportando de forma importante al entorno empresarial, no se ha priorizado la seguridad de la información que viaja por los dispositivos,
+        p(data-aos="fade-in").mt-3.mt-lg-0 Si bien es cierto que el avance tecnológico en el <i>internet</i> de las cosas es tendencia de crecimiento a nivel mundial, aportando de forma importante al entorno empresarial, no se ha priorizado la seguridad de la información que viaja por los dispositivos,
         p.mt-2 Por ello, la Organización Internacional de Normalización presenta la arquitectura ISO/IEC 30141: 2018, la cual proporciona una arquitectura de referencia que se complementa con otros estándares internacionales para garantizar la seguridad y protección de los datos.
         p.mt-2 El estándar ISO / IEC 30141 es la primera arquitectura de referencia que tiene como objetivo hacer que el IoT sea eficiente, interrumpible, seguro y resistente a ataques.
     .row.mb-4
@@ -27,7 +27,7 @@
           p(data-aos="fade-in") Para finalizar, se presentan algunas leyes colombianas aplicadas a seguridad y protección de datos:
     .row.d-flex.justify-content-center.border-radius-10.bg-color-sistema-g
       .col-7.p-5
-        ImagenInfografica.color-secundario.mb-5
+        ImagenInfografica.color-primario.mb-5
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema2/img3.svg', alt='Texto que describa la imagen')
@@ -47,11 +47,11 @@
 
           .tarjeta.color-acento-botones.p-3(x="86%" y="30%" numero="5")
             .h5.mb-2 ISO/IEC 27000
-            p Hacen parte de un sistema de administración de seguridad de la información (Information Security Management System ISMS), el cual va dirigido a la seguridad de la información bajo un detallado control administrativo de la misma, está el grupo de estándares NIST en el cual encontramos el marco para la mejora de la seguridad cibernética en infraestructuras críticas.
+            p Hacen parte de un sistema de administración de seguridad de la información (<i>Information Security Management System</i> ISMS), el cual va dirigido a la seguridad de la información bajo un detallado control administrativo de la misma, está el grupo de estándares NIST en el cual encontramos el marco para la mejora de la seguridad cibernética en infraestructuras críticas.
 
           .tarjeta.color-acento-botones.p-3(x="63.5%" y="7%" numero="4")
             .h5.mb-2 ISO 15408
-            p Permite que diferentes aplicaciones de software puedan ser integradas y probadas de forma o manera segura.
+            p Permite que diferentes aplicaciones de <i>software</i> puedan ser integradas y probadas de forma o manera segura.
 
           .tarjeta.color-acento-botones.p-3(x="84.5%" y="59%" numero="6")
             .h5.mb-2 ISO 27002

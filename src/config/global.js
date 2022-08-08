@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Fundamentos de seguridad digital',
     descripcionCurso:
       'Los fundamentos necesarios para diagnosticar el estado actual de la ciberseguridad en una organización, adoptando métodos de análisis y valoración de riesgos son fundamentales para definir un plan de tratamiento adecuado.',
-    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.png'),
+    imagenBannerPrincipal: require('@/assets/curso/banner-princiapal-2.png'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
@@ -47,7 +47,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Malware en IoT',
+            titulo: '<i>Malware</i> en IoT',
             hash: 't_1_1',
           },
           {
@@ -71,7 +71,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.5',
-            titulo: 'Vulnerabilidades web',
+            titulo: 'Vulnerabilidades <i>web</i>',
             hash: 't_1_5',
           },
         ],
@@ -163,9 +163,9 @@ export default {
   ],
   complementario: [
     {
-      tema: '1.1 Malware en IoT',
+      tema: '1.1 <i>Malware</i> en IoT',
       referencia:
-        'CISA. (2021). <i>Rising ransomware threat to operational technology asserts</i>. https://www.cisa.gov/sites/default/files/publications/CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.pdf',
+        'CISA. (2021). <i>Rising <i><i>ransomware</i></i> threat to operational technology asserts</i>. https://www.cisa.gov/sites/default/files/publications/CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.pdf',
       tipo: 'Artículo',
       link:
         'https://www.cisa.gov/sites/default/files/publications/CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.pdf ',
@@ -195,7 +195,7 @@ export default {
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'MinTIC. (2012). <i>Ley estatutaria 181 de 2012. Protección de datos personales</i>. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
+        'MinTIC. (2012). <i>Ley estatutaria 1581 de 2012. Protección de datos personales</i>. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
       tipo: 'Ley',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
@@ -361,7 +361,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
+        nombre: 'Jhon Fredy Rodriguez Castiblanco',
         cargo: 'Validación y vinculación en plataforma LMS',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
