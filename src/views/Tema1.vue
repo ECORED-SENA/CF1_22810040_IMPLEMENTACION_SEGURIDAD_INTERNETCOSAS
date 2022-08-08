@@ -42,42 +42,42 @@
               AcordionA.mx-lg-5.my-lg-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
                 .row.justify-content-center.align-items-center(titulo="Televisores modernos")
                   .col-6.col-lg-2
-                    figure
+                    figure.mb-2.mb-lg-0
                       img(src='@/assets/curso/temas/tema1/imgA3.png', alt='')          
                   .col-12.col-lg-8
                     p.mb-0 Siempre están conectados, tienen cámara  y sensores de voz. 
 
                 .row.justify-content-center.align-items-center(titulo="Cámaras IP")
                   .col-6.col-lg-2
-                    figure
+                    figure.mb-2.mb-lg-0
                       img(src='@/assets/curso/temas/tema1/imgA4.png', alt='')          
                   .col-12.col-lg-8
                     p.mb-0 Pueden ser usadas por los cibercriminales para generar ataques de denegación de servicios.
 
                 .row.justify-content-center.align-items-center(titulo="Impresoras")
                   .col-6.col-lg-2
-                    figure
+                    figure.mb-2.mb-lg-0
                       img(src='@/assets/curso/temas/tema1/imgA5.png', alt='')          
                   .col-12.col-lg-8
                     p.mb-0 Son dispositivos vulnerables, porque carecen de la seguridad incorporada necesaria para contrarrestar las amenazas.
 
                 .row.justify-content-center.align-items-center(titulo="Termostatos inteligentes")
                   .col-6.col-lg-2
-                    figure
+                    figure.mb-2.mb-lg-0
                       img(src='@/assets/curso/temas/tema1/imgA6.png', alt='')          
                   .col-12.col-lg-8
                     p.mb-0 Tienen fallos sin corregir y pueden ser la entrada de amenazas que comprometan nuestra red. 
 
                 .row.justify-content-center.align-items-center(titulo="Reproductores de video")
                   .col-6.col-lg-2
-                    figure
+                    figure.mb-2.mb-lg-0
                       img(src='@/assets/curso/temas/tema1/imgA7.png', alt='')          
                   .col-12.col-lg-8
                     p.mb-0 Son muy atacados por los piratas informáticos cuando detectan vulnerabilidades.
 
                 .row.justify-content-center.align-items-center(titulo="Bombillas inteligentes")
                   .col-6.col-lg-2
-                    figure
+                    figure.mb-2.mb-lg-0
                       img(src='@/assets/curso/temas/tema1/imgA8.png', alt='')          
                   .col-12.col-lg-8
                     p.mb-0 Son atacados por ser dispositivos conectados a la red doméstica.
@@ -640,6 +640,7 @@ export default {
 <style lang="sass">
 .lineatiempo1
   .linea-tiempo-b__icon
+    transform: scale(0.6) !important
     img
-      width: 65% !important
+      width: 95px !important
 </style>
