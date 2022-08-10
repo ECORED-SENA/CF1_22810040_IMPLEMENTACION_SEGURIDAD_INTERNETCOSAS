@@ -165,7 +165,7 @@ export default {
     {
       tema: '1.1 <i>Malware</i> en IoT',
       referencia:
-        'CISA. (2021). <i>Rising <i><i>ransomware</i></i> threat to operational technology asserts</i>. https://www.cisa.gov/sites/default/files/publications/CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.pdf',
+        'CISA. (2021). <i>Rising <i><i>ransomware</i></i> threat to operational technology asserts</i>.',
       tipo: 'Artículo',
       link:
         'https://www.cisa.gov/sites/default/files/publications/CISA_Fact_Sheet-Rising_Ransomware_Threat_to_OT_Assets_508C.pdf ',
@@ -173,7 +173,7 @@ export default {
     {
       tema: '1.2 Ataques DDoS',
       referencia:
-        'Incibe. (2017). <i>Dos mejor que uno: doble factor para acceder a servicios críticos</i>. https://www.incibe.es/protege-tu-empresa/blog/dos-mejor-uno-doble-factor-acceder-servicios-criticos',
+        'Incibe. (2017). <i>Dos mejor que uno: doble factor para acceder a servicios críticos</i>.',
       tipo: 'Artículo',
       link:
         'https://www.incibe.es/protege-tu-empresa/blog/dos-mejor-uno-doble-factor-acceder-servicios-criticos ',
@@ -181,21 +181,21 @@ export default {
     {
       tema: '1.4 Comunicaciones sin cifrado',
       referencia:
-        'Ramírez, L., D. O., y Espinosa, M., C. C (2018). <i>El cifrado web SSL/TLS</i>. https://revista.seguridad.unam.mx/numero-10/el-cifrado-web-ssltls',
+        'Ramírez, L., D. O., y Espinosa, M., C. C (2018). <i>El cifrado web SSL/TLS</i>.',
       tipo: 'Artículo',
       link: 'https://revista.seguridad.unam.mx/numero-10/el-cifrado-web-ssltls',
     },
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'ISO. (2018). <i>ISO/IEC 30141:20189.internet of Things (IoT)-Reference Architecture</i>. https://www.iso.org/standard/65695.html',
+        'ISO. (2018). <i>ISO/IEC 30141:20189.internet of Things (IoT)-Reference Architecture</i>.',
       tipo: 'Norma',
       link: 'https://www.iso.org/standard/65695.html',
     },
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'MinTIC. (2012). <i>Ley estatutaria 1581 de 2012. Protección de datos personales</i>. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
+        'MinTIC. (2012). <i>Ley estatutaria 1581 de 2012. Protección de datos personales</i>.',
       tipo: 'Ley',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=49981',
@@ -203,7 +203,7 @@ export default {
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'Función pública. (2008). <i>Ley 1266 de 2008 Función pública</i>. https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34488',
+        'Función pública. (2008). <i>Ley 1266 de 2008 Función pública</i>.',
       tipo: 'Ley',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34488',
@@ -211,7 +211,7 @@ export default {
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'Congreso de la República (2009). <i>Ley 1273 de 2009. De la protección de la información y de los datos</i>. http://www.secretariasenado.gov.co/senado/basedoc/ley_1273_2009.html',
+        'Congreso de la República (2009). <i>Ley 1273 de 2009. De la protección de la información y de los datos</i>.',
       tipo: 'Ley',
       link:
         'http://www.secretariasenado.gov.co/senado/basedoc/ley_1273_2009.html',
@@ -219,21 +219,21 @@ export default {
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'ISO. (2018). <i>ISO/IEC 27000. Information technology - Security techniques - Information security management systems - overview and vocabulary</i>. https://www.iso.org/standard/73906.html',
+        'ISO. (2018). <i>ISO/IEC 27000. Information technology - Security techniques - Information security management systems - overview and vocabulary</i>.',
       tipo: 'Normas de seguridad',
       link: 'https://www.iso.org/standard/73906.html',
     },
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'ISO. (2009). <i>ISO/IEC 15408. Information technology - Security techniques - Evaluation criteria for IT security - part1: INtroduction and general model</i>. https://www.iso.org/standard/50341.html',
+        'ISO. (2009). <i>ISO/IEC 15408. Information technology - Security techniques - Evaluation criteria for IT security - part1: INtroduction and general model</i>.',
       tipo: 'Normas de seguridad',
       link: 'https://www.iso.org/standard/50341.html',
     },
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'ISO. (2013). <i>ISO/IEC 2002. Information technology - Security techniques - Code of practice for information security controls</i>. https://www.iso.org/standard/54533.html',
+        'ISO. (2013). <i>ISO/IEC 2002. Information technology - Security techniques - Code of practice for information security controls</i>.',
       tipo: 'Normas de seguridad',
       link: 'https://www.iso.org/standard/54533.html',
     },

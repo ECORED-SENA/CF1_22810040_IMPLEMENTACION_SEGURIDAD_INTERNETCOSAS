@@ -277,7 +277,7 @@
         .btn-hover-cus-4.py-3.px-4 4. Extorsión cibernética.
         .btn-hover-cus-5.py-3.px-4 5. Desacreditación del negocio        
         TarjetaAudio.color-adicional-4.btn-hover-cus-6(
-          :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+          :audio="require('@/assets/curso/temas/tema1/ataqueDDoS.mp3')"
           @audio-hover="mostrarIndicadorTarjetaAudio = false"
         )
     .row(data-aos="fade-in").d-sm-block.d-lg-none
@@ -290,7 +290,7 @@
         .btn-hover-cus-4.py-1.px-1 4. Extorsión cibernética.
         .btn-hover-cus-5.py-1.px-1 5. Desacreditación<br> del negocio
         TarjetaAudio.color-adicional-4.btn-hover-cus-6(
-          :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+          :audio="require('@/assets/curso/temas/tema1/ataqueDDoS.mp3')"
           @audio-hover="mostrarIndicadorTarjetaAudio = false"
         )
 
