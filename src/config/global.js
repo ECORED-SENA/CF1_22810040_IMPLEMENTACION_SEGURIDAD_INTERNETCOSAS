@@ -233,7 +233,7 @@ export default {
     {
       tema: '2. Estándares de la seguridad IoT',
       referencia:
-        'ISO. (2013). <i>ISO/IEC 2002. Information technology - Security techniques - Code of practice for information security controls</i>.',
+        'ISO. (2013). <i>ISO/IEC 27002. Information technology - Security techniques - Code of practice for information security controls</i>.',
       tipo: 'Normas de seguridad',
       link: 'https://www.iso.org/standard/54533.html',
     },
